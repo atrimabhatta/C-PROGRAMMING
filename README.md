@@ -39,13 +39,13 @@
 20.	Write a C program to input any character and check whether it is an alphabet, digit, or special character. 
 
 ### Topic: C Functions
-1.Write a C program to add, subtract, multiply, and divide two integers using a user-defined type function with a return type.
-2.Write a C program to calculate the sum of the first 20 natural numbers using a recursive function.
-3.Write a C program to generate a Fibonacci series using a recursive function.
-4.Write a C program to swap two integers using call-by-value and call-by-reference methods of passing arguments to a function.
-5.Write a C program to find the sum of the digits of the number using a recursive function.
-6.Write a C program to read an integer number and print the reverse of that number using recursion.
-7.Using functions, write a C program to find the maximum and minimum between two numbers.
-8.Write a C program to check whether a number is even or odd using functions.
-9.Write a C program to check whether a number is a prime, Armstrong, or Perfect number using functions.
-10.Write a C program to find the power of any number using recursion.
+1. Write a C program to add, subtract, multiply, and divide two integers using a user-defined type function with a return type.
+2. Write a C program to calculate the sum of the first 20 natural numbers using a recursive function.
+3. Write a C program to generate a Fibonacci series using a recursive function.
+4. Write a C program to swap two integers using call-by-value and call-by-reference methods of passing arguments to a function.
+5. Write a C program to find the sum of the digits of the number using a recursive function.
+6. Write a C program to read an integer number and print the reverse of that number using recursion.
+7. Using functions, write a C program to find the maximum and minimum between two numbers.
+8. Write a C program to check whether a number is even or odd using functions.
+9. Write a C program to check whether a number is a prime, Armstrong, or Perfect number using functions.
+10. Write a C program to find the power of any number using recursion.
