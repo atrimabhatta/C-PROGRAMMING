@@ -49,3 +49,13 @@
 8. Write a C program to check whether a number is even or odd using functions.
 9. Write a C program to check whether a number is a prime, Armstrong, or Perfect number using functions.
 10. Write a C program to find the power of any number using recursion.
+
+### Topic: File Handling
+
+1. Write a C program to list all files and sub-directories in a directory.
+2. Write a C program to count the number of lines in a file.
+3. Write a C program to print the contents of a file.
+4. Write a C program to copy the contents of one file to another file.
+5. Write a C program to merge the contents of two files into a third file.\
+6. Write a C program to delete a file.
+ 
